@@ -1,0 +1,15 @@
+{
+  "name": "nick-pricing-tool",
+  "version": "1.0.0",
+  "description": "Live parts pricing tool for Nick's auto parts shop in Brasília",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
